@@ -1,6 +1,5 @@
 # Welcome to GDG-BIT Official GitHub Page
 
----
 
 ## About Us
 
@@ -13,7 +12,6 @@ Welcome to the GitHub repository of GDG-BIT Bangalore (Google Developer Groups -
 - Organize workshops, webinars, and hackathons.
 - Collaborate on projects that solve real-world problems.
 
----
 
 ## Get Involved
 
@@ -26,7 +24,6 @@ We welcome contributions from developers of all skill levels. Whether you're a b
 3. Fork the repository, make your changes, and submit a pull request.
 4. Join our [Discord community](https://discord.gg/vZyfwm9hUx) to connect with other contributors.
 
----
 
 ## Contact Us
 
