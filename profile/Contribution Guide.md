@@ -21,7 +21,7 @@ To contribute to this project, follow these steps:
 
 ### Getting Started
 
-1. **Fork this repository** by clicking the ["Fork" button](https://github.com/your-username/Hacktoberfest23-Contributors/fork) in the top right corner of this page.
+1. **Fork this repository** by clicking the ["Fork" button] in the top right corner of this page.
 
 2. **Clone your forked repository** to your local machine:
 
