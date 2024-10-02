@@ -33,9 +33,9 @@ We welcome contributions from developers of all skill levels. Whether you're a b
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to us:
 ---
 
-- Meet our lead, [Ankit Sharma](https://github.com/divyej)
+- Meet our lead, [Ankit Sharma](https://github.com/Ankitsharma2023)
 - Email: gdg.bit.official@gmail.com
-- Discord: [Join our Discord community](https://discord.gg/hv79UqwxcA)
+- Discord: [Join our Discord community](https://discord.gg/vZyfwm9hUx)
 - Website: [GDSC-BIT Bangalore Official Website](https://gdg.community.dev/gdg-on-campus-bangalore-institute-of-technology-bengaluru-india/)
 
 ---
