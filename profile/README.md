@@ -5,6 +5,7 @@
 
 Welcome to the GitHub repository of GDG-BIT Bangalore (Google Developer Groups - Bangalore Institute of Technology). We are a community of enthusiastic developers and tech enthusiasts dedicated to learning, collaborating, and building exciting projects.
 
+
 ### Our Mission
 
 - Foster a culture of learning and innovation.
@@ -13,9 +14,12 @@ Welcome to the GitHub repository of GDG-BIT Bangalore (Google Developer Groups -
 - Collaborate on projects that solve real-world problems.
 
 
+
 ## Get Involved
 
 We welcome contributions from developers of all skill levels. Whether you're a beginner or an experienced developer, there's a place for you in our community.
+
+
 
 ### How to Contribute
 
@@ -25,10 +29,10 @@ We welcome contributions from developers of all skill levels. Whether you're a b
 4. Join our [Discord community](https://discord.gg/vZyfwm9hUx) to connect with other contributors.
 
 
+
 ## Contact Us
 
 If you have any questions, suggestions, or just want to say hello, feel free to reach out to us:
----
 
 - Meet our lead, [Ankit Sharma](https://github.com/Ankitsharma2023)
 - Email: gdg.bit.official@gmail.com
