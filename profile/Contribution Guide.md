@@ -26,35 +26,35 @@ To contribute to this project, follow these steps:
 2. **Clone your forked repository** to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/newbie-practice.git
+   git clone https://github.com/pathakanushri/newbie-practice.git
 
 ### Adding Your Contribution
 
 1.**Create a new branch** for your contribution. Choose a meaningful branch name, for example:
   ```bash
-  git checkout -b add-your-name
+  git checkout -b anushri-pathak
   ```
 
 2. **Edit the contributors.html file** to add your information to the table.
    
    ```html
    <tr>
-     <td>Your Name</td>
-     <td>Your Email</td>
-     <td>Your Hobbies</td>
+     <td>anushri</td>
+     <td>pathak.anushri05@gmail.com</td>
+     <td>football</td>
    </tr>
 
 3. Save the file and commit changes:
    
   ```bash
   git add contributors.html
-  git commit -m "Add [Your Name] to contributors"
+  git commit -m "Add [anushri] to contributors"
   ```
 ### Making a Pull Request
 
 1. **Push your changes** to the forked repo :
   ```bash
-  git push origin add-your-name
+  git push origin anushri-pathak
   ```
 2. Visit the original repository on GitHub (the one you forked from).
 
