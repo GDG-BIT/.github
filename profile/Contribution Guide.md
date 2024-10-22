@@ -6,14 +6,14 @@ Welcome to the Hacktoberfest'24 Contributors repository! We're excited to have y
 
 - [About the Project](#about-the-project)
 - [How to Contribute](#how-to-contribute)
-  - [Getting Started](#getting-started)
-  - [Adding Your Contribution](#adding-your-contribution)
-  - [Making a Pull Request](#making-a-pull-request)
+- [Getting Started](#getting-started)
+- [Adding Your Contribution](#adding-your-contribution)
+- [Making a Pull Request](#making-a-pull-request)
 - [License](#license)
 
 ## About the Project
 
-This project is a simple HTML table displaying contributors' names, emails, and hobbies. Your contributions can include adding your information to the table or making improvements to the existing code.
+This project is a simple HTML table displaying contributors' names, emails, and hobbies. Your contributions can include adding your information to the table or improving the existing code.
 
 ## How to Contribute
 
@@ -28,7 +28,7 @@ To contribute to this project, follow these steps:
    ```bash
    git clone https://github.com/your-username/newbie-practice.git
 
-### Adding Your Contribution
+## Adding Your Contribution
 
 1.**Create a new branch** for your contribution. Choose a meaningful branch name, for example:
   ```bash
@@ -60,10 +60,10 @@ To contribute to this project, follow these steps:
 
 3. Create a Pull Request by clicking the "New Pull Request" button.
 
-4. In the pull request description, provide a brief summary of your contribution.
+4. In the pull request description, provide a summary of your contribution.
 
 5. Submit the Pull Request.
 
 ## License
-This project is licensed under the MIT License
+This project is licensed under the MIT License.
 Thank you for contributing to Hacktoberfest'23 Contributors! Your contributions are greatly appreciated.
