@@ -39,22 +39,22 @@ To contribute to this project, follow these steps:
    
    ```html
    <tr>
-     <td>Your Name</td>
-     <td>Your Email</td>
-     <td>Your Hobbies</td>
+     <td>Anushri</td>
+     <td>pathak.anushri05@gmail.com</td>
+     <td>Football</td>
    </tr>
 
 3. Save the file and commit changes:
    
   ```bash
   git add contributors.html
-  git commit -m "Add [Your Name] to contributors"
+  git commit -m "Add [Anushri] to contributors"
   ```
 ### Making a Pull Request
 
 1. **Push your changes** to the forked repo :
   ```bash
-  git push origin add-your-name
+  git push origin Anushri
   ```
 2. Visit the original repository on GitHub (the one you forked from).
 
